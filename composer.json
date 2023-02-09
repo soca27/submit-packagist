@@ -1,0 +1,20 @@
+{
+    "name": "testingaja/testingaja",
+    "description": "testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "soca27",
+            "email": "socaramdhani22@gmail.com"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "Testingaja\\File\\": "src/"
+        }
+   },
+    "require": {
+        "php": ">=8.0"
+    }
+    
+}
